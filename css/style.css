@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* text  & fonts */
+
+html {
+    background: #000;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #fff;
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+a:hover{
+    color: #999;
+}
+
+
+/* basic page setup */
+
+#wrapper {
+    margin: 0 auto;
+    width: 553px;
+    text-align: center;
+}
+
+#page {}
+
+#header {
+    margin: 70px 0 30px 0;
+    text-align: center;
+}
+
+#main {
+    float: left;
+    text-align: left;
+}
+
+#footer {
+    clear: both;
+    margin: 0 auto;
+    height: 31px;
+    text-align: center;
+    
+
+p {
+    margin-bottom: 30px;
+}
