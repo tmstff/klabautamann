@@ -31,13 +31,26 @@ a:hover{
     text-align: center;
 }
 
-
 #header {
-    margin: 70px 0 30px 0;
+    margin-top: 125px;
+    margin-bottom: 125px;
     text-align: center;
 }
 
+#left, #middle, #right {
+    margin-top: 75px;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    vertical-align: top;
+}
+
+#left {width: 400px}
+#middle {width: 80px}
+#right {width: 400px}
+
 #main {
+    margin: 0;
     float: left;
     text-align: left;
 }
