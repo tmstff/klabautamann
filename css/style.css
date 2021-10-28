@@ -15,11 +15,11 @@ html {
 
 a {
     color: #808081;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:hover{
-    color: #808081;
+    text-decoration: underline;
 }
 
 
