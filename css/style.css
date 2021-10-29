@@ -50,10 +50,6 @@ a:hover{
     vertical-align: top;
 }
 
-#left {width: 400px}
-#middle {width: 80px}
-#right {width: 400px}
-
 #main {
     margin: 0;
     float: left;
@@ -61,12 +57,8 @@ a:hover{
 }
 
 #footer {
+    margin-bottom: 30px;
     clear: both;
     margin: 0 auto;
     text-align: center;
-}
-    
-
-p {
-    margin-bottom: 30px;
 }
